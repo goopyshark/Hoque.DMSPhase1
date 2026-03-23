@@ -1,3 +1,4 @@
+package com.vpt;
 /**
  * Main is the entry point of the program.
  *

@@ -1,3 +1,4 @@
+package com.vpt;
 /**
  * MatchRecord represents one Valorant match stored in the V-PT system.
  *
